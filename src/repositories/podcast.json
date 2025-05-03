@@ -1,0 +1,28 @@
+[
+    {
+        "podcastName":"flow",
+        "episode": "OpenAI VS DeepSeek [com ALVARO MACHADO E RONALDO LEMOS]",
+        "videoId":"6tnSUdsxI1M",
+        "cover": "https://i.ytimg.com/vi/6tnSUdsxI1M/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=6tnSUdsxI1M&pp=0gcJCYQJAYcqIYzv",
+        "category": ["tech", "IA"]
+    },
+
+    {
+        "podcastName":"flow",
+        "episode": "BARBIXAS - Flow #432",
+        "videoId": "mMXM-yn1OFs",
+        "cover": "https://i.ytimg.com/vi/mMXM-yn1OFs/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=mMXM-yn1OFs",
+        "category": ["humor"]
+    },
+
+    {
+        "podcastName":"Glauber - Podcast",
+        "episode": "BARBIXAS - Flow #432",
+        "videoId": "mMXM-yn1OFs",
+        "cover": "https://i.ytimg.com/vi/mMXM-yn1OFs/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=mMXM-yn1OFs",
+        "category": ["humor"]
+    }
+]
